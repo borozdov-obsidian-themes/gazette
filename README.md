@@ -33,10 +33,14 @@ square corners and one signal yellow.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Gazette**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Gazette** under Style Settings → Borozdov Ember → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/gazette/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Gazette/`, then choose Borozdov Gazette under
 Settings → Appearance → Themes.
@@ -57,5 +61,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Утро» — качественная газета
 на кремовой бумаге, и тёмный «Вечер» — вечерний выпуск. Колонки с засечками (Libertinus
 Serif), тонкие линейки, прямые углы и один сигнальный жёлтый для того, что вы делаете.
-Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Gazette →
-Установить и применить.
+В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Gazette в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
